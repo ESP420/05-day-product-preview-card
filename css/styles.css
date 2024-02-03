@@ -165,7 +165,7 @@ body {
 
 @media (min-width:375px) {
 	.card {
-		grid-template-columns: 370px;
+		grid-template-columns: 350px;
 	}
 
 	.title {
