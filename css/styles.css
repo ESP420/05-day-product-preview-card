@@ -168,7 +168,11 @@ body {
 		grid-template-columns: 370px;
 	}
 
-	.card-header {
+	.title {
+		font-size: 2rem;
+	}
+
+	d-header {
 		height: 250px;
 	}
 }
